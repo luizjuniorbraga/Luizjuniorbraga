@@ -4,7 +4,7 @@
 
 Contador de formação, descobri minha paixão pela tecnologia e estou em migração de carreira. Completei a graduação em Análise e Desenvolvimento de Sistemas (conclusão 2025) e estou cursando Pós-graduação em Banco de Dados (2026). Já domino o front-end básico com HTML, CSS e JavaScript, e agora estou focado em me tornar um dev full stack com TypeScript, React.js e Node.js. Versionando meus projetos no GitHub.
 
-🎓 Formação: Bacharel em Ciências Contábeis | Cursando Análise e Desenvolvimento de Sistemas | Pós-graduando em Banco de Dados.
+🎓 Formação: Bacharel em Ciências Contábeis | Análise e Desenvolvimento de Sistemas | Cursando Pós-graduando em Banco de Dados.
 
 🚀 Em transição de carreira para a área de tecnologia.
 
